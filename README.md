@@ -1,10 +1,10 @@
-# 🏝️ NookShop
+# NookShop
 
 NookShop es una aplicación web desarrollada con **Laravel 10** que incluye sistema de autenticación con verificación de correo electrónico, gestión de perfil con geolocalización y un CRUD de elementos personalizados.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - ✅ Registro y login de usuarios  
 - ✅ Verificación obligatoria de email  
@@ -17,7 +17,7 @@ NookShop es una aplicación web desarrollada con **Laravel 10** que incluye sist
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Laravel 10  
 - PHP 8.1+  
@@ -28,7 +28,7 @@ NookShop es una aplicación web desarrollada con **Laravel 10** que incluye sist
 
 ---
 
-## ⚙️ Instalación
+## Instalación
 
 1. Clonar o descomprimir el proyecto.
 2. Instalar dependencias:
